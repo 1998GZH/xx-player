@@ -1,0 +1,15 @@
+{
+  "name": "xx-player",
+  "version": "0.0.1",
+  "description": "web palyer that support h265",
+  "main": "package/index.ts",
+  "repository": "git@github.com:1998GZH/xx-player.git",
+  "author": "guozhenghong",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
